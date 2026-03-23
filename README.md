@@ -1,5 +1,7 @@
 # Lanchonete React 🍔
 
+![Captura de Tela da Aplicação](src/assets/tela.png)
+
 Uma aplicação React simples para gerar resumos de pedidos em uma lanchonete. Esta aplicação calcula automaticamente o subtotal, taxa de serviço e o total a pagar com base nos itens pedidos.
 
 ## Funcionalidades
@@ -54,9 +56,6 @@ src/
     └── Comanda.module.css # Estilos do componente Comanda
 ```
 
-## Captura de Tela
-
-![Captura de Tela da Aplicação](src/assets/tela.png)
 
 ## Scripts Disponíveis
 
